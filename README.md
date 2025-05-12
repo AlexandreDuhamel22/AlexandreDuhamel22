@@ -1,3 +1,11 @@
+# Hi there 👋 I’m Alexandre
+
+I’m an MS in Operations Research at Columbia University and MEng graduate from ENSIMAG (Computer Science, Applied Math & Financial Engineering).  
+By day, I dive into quantitative finance and model-inversion research; by night, I build meaningful projects that spark my curiosity or make life easier for me and my friends.  
+
+Feel free to connect! 🚀
+
+
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandreDuhamel22&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
